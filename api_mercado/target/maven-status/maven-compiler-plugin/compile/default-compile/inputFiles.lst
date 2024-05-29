@@ -1,0 +1,13 @@
+/home/kfrural/Downloads/api_mercado/src/main/java/classes/Comprador.java
+/home/kfrural/Downloads/api_mercado/src/main/java/classes/Producer.java
+/home/kfrural/Downloads/api_mercado/src/main/java/classes/Vendedor.java
+/home/kfrural/Downloads/api_mercado/src/main/java/com/bulltech/api_mercado/ApiMercadoApplication.java
+/home/kfrural/Downloads/api_mercado/src/main/java/controller/CompradorController.java
+/home/kfrural/Downloads/api_mercado/src/main/java/controller/ProducerController.java
+/home/kfrural/Downloads/api_mercado/src/main/java/controller/VendedorController.java
+/home/kfrural/Downloads/api_mercado/src/main/java/jpa/CompradorRepository.java
+/home/kfrural/Downloads/api_mercado/src/main/java/jpa/ProducerRepository.java
+/home/kfrural/Downloads/api_mercado/src/main/java/jpa/VendedorRepository.java
+/home/kfrural/Downloads/api_mercado/src/main/java/service/CompradorService.java
+/home/kfrural/Downloads/api_mercado/src/main/java/service/ProducerService.java
+/home/kfrural/Downloads/api_mercado/src/main/java/service/VendedorService.java
